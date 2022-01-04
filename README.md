@@ -1,6 +1,6 @@
 # Amazon_Vine_Analysis
 ### Positivity Bias in Vine Member Reviews
-Analyst: <code><i> Stanley Misina, Columbia University Data Analytics Bootcamp</i></code><br />
+Analyst: <code><i> Elham Amini, Columbia University Data Analytics Bootcamp</i></code><br />
 Systems Used: <i><code> PySpark with Google Colaboratory, PostgreSQL accessing AWS RDS instance, Python 3.9 with Pandas and Numpy in Jupyter Notebook </i></code><br />
 Data Source: <i><code>Amazon Analyitics</code></i>
 
